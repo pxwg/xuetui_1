@@ -1,6 +1,6 @@
 #import "../../typ/templates/blog.typ": *
 #show: main-zh.with(
-  title: "清华大学学术推进计划成果展示",
+  title: "清华大学学术推进计划成果展示 (Sample)",
   desc: [记录我们项目组从选题到完成的全过程],
   date: "2025-09-30",
 )
