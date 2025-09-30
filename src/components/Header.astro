@@ -14,18 +14,10 @@ const { articleId } = Astro.props;
 
 <header>
   <nav>
-    <h2 class="logo"><a href={`${kUrlBase}/`}>{kSiteLogo}</a></h2>
-    <div class="internal-links">
-      <HeaderLink href={`${kUrlBase}/`}>Home</HeaderLink>
-      <HeaderLink href={`${kUrlBase}/article`}>Posts</HeaderLink>
-      <HeaderLink href={`${kUrlBase}/friend`}>Friends</HeaderLink>
-      <HeaderLink href={`${kUrlBase}/about`}>About</HeaderLink>
-    </div>
-    <div class="social-links">
-      <span style="width: 2em;" aria-hidden="true">&nbsp;</span>
+    <div class="social-links" style="margin-left: auto; display: flex; align-items: center;">
       <ThemeToggle />
       <a
-        href="https://github.com/Myriad-Dreamin/blog"
+        href="https://github.com/Cattie33"
         class="icon ls-icon"
         target="_blank"
         title="Go to the repository of this blog"
@@ -38,6 +30,7 @@ const { articleId } = Astro.props;
         >
       </a>
     </div>
+    <h2 class="logo"><a href={`${kUrlBase}/`}>{kSiteLogo}</a></h2>
   </nav>
 </header>
 <style>
