@@ -1,4 +1,4 @@
 [submodule "typ"]
 	path = typ
-	url = https://github.com/Myriad-Dreamin/typ.git
+  url = https://github.com/pxwg/typ.git
 	branch = main
