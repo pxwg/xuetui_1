@@ -134,7 +134,7 @@ Momenta
 ))
 
 // #highlight[插入文档“访谈提纲”]
-#pdf_viewer(path: "xuetui-cars.com/assets/docs/图片/访谈调研/1-访谈提纲.pdf")
+#pdf_viewer(path: "../assets/docs/图片/访谈调研/1-访谈提纲.pdf")
 
 // #highlight[插入文档“8.9 采访核心总结”]
 #pdf_viewer(path: "../assets/docs/图片/访谈调研/2-8.pdf")
