@@ -23,10 +23,11 @@ All commands are run from the root of the project, from a terminal:
 1. Change Source's "Build and deployment" to "GitHub Actions" in [Page Settings](../../settings/pages).
 1. Push your changes to the `main` branch and it will automatically deploy to GitHub Pages by [CI](.github/workflows/gh-pages.yml).
 
-### Pdf preview integration
+### Assets
 
-1. Use the `pdf-preview` function in `typ` templates
-2. deployment is the same as above, since the pdf directory could be copied to `dist` during build.
+1. Use the `pdf_viewer` function in `typ` templates to insert pdf in blog posts.
+2. Use the `image_viewer` function in `typ` templates to insert images in blog posts (which is a safer alternative way compared with `typst` original functions).
+3. deployment is the same as above, since the pdf directory could be copied to `dist` during build.
 
 ## Editor Setup
 
@@ -69,13 +70,6 @@ Create a new blog post in `content/article`
   ),
 )
 ```
-
-## Customization
-
-- `.env`: Configuration read by files, Please check `defineConfig/env` in [astro.config.mjs](astro.config.mjs) for schema.
-- [`src/consts.ts`](./src/consts.ts),[`src/components/BaseHead.astro`](./src/components/BaseHead.astro): global metadata, font resource declarations, and the head component.
-- [`src/styles/*`](src/styles/): CSS styles.
-
 
 ## Credit
 
