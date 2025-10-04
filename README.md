@@ -56,7 +56,7 @@ Install suggseted extensions:
 
 ## Writing
 
-Create a new blog post in [`content/article`:](https://github.com/Myriad-Dreamin/Myriad-Dreamin/tree/ffbfbbad99c172c7e6d60c511fdee2c24d9af7ff/article/)
+Create a new blog post in `content/article`
 
 ```typ
 #import "/typ/templates/blog.typ": *
@@ -69,10 +69,6 @@ Create a new blog post in [`content/article`:](https://github.com/Myriad-Dreamin
   ),
 )
 ```
-
-The `blog-tags` index is defined in [`content/article/blog-tags.typ`](./typ/templates/mod.typ#L14) to ensure type safety. You can add your own tags by adding a new `blog-tags` index.
-
-There is a sample blog post in [`content/article/personal-info.typ`](https://github.com/Myriad-Dreamin/Myriad-Dreamin/tree/ffbfbbad99c172c7e6d60c511fdee2c24d9af7ff/article/personal-info.typ).
 
 ## Customization
 
