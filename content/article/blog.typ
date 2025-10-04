@@ -53,10 +53,23 @@ Ultra 和 Hi4 技术体系，聊了很多技术细节。说实话，很多内容
 
 当一天“消费者”下来，最大的感受是，销售口中宣传的那些天花乱坠的功能，在实际道路上体验起来并没有那么完美。我们也发现，不同车型的摄像头和雷达配置差别很大，这背后可能就隐藏着安全风险。这次调研让我们深刻体会到，从“宣传”到“用户实际体验”之间，还有很长一段路要走，而这正是我们研究可以切入的地方。
 
-#figure(code-image(image("../assets/docs/图片/实地考察/图片16.png")))
+#figure(
+  code-image(
+    image("../assets/docs/图片/实地考察/图片16.png"),
+  ),
+)
 
-#figure(code-image(image("../assets/docs/图片/实地考察/图片17.png")))
-#figure(code-image(image("../assets/docs/图片/实地考察/图片18.png")))
+#figure(
+  code-image(
+    image("../assets/docs/图片/实地考察/图片17.png"),
+  ),
+)
+
+#figure(
+  code-image(
+    image("../assets/docs/图片/实地考察/图片18.png"),
+  ),
+)
 
 调研过程中拍摄的一些零零碎碎的图片
 
