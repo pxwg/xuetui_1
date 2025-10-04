@@ -236,12 +236,12 @@ Momenta
 // #highlight[插入图片“量表统计柱状图（前）”、“量表统计柱状图（后）”]
 #figure(code-image(
   image(
-    "../../docs/图片/试驾实验/量表统计柱状图（前）.png",
+    "../assets/docs/图片/试驾实验/量表统计柱状图（前）.png",
   ),
 ))
 #figure(code-image(
   image(
-    "../../docs/图片/试驾实验/量表统计柱状图（后）.png",
+    "../assets/docs/图片/试驾实验/量表统计柱状图（后）.png",
   ),
 ))
 
