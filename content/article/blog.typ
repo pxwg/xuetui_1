@@ -52,18 +52,25 @@ Ultra 和 Hi4 技术体系，聊了很多技术细节。说实话，很多内容
 
 当一天“消费者”下来，最大的感受是，销售口中宣传的那些天花乱坠的功能，在实际道路上体验起来并没有那么完美。我们也发现，不同车型的摄像头和雷达配置差别很大，这背后可能就隐藏着安全风险。这次调研让我们深刻体会到，从“宣传”到“用户实际体验”之间，还有很长一段路要走，而这正是我们研究可以切入的地方。
 
-#figure(code-image(image("../assets/media/image5.png")))#figure(code-image(image("../assets/media/image6.png")))#figure(code-image(image("../assets/media/image7.png")))#figure(code-image(image("../assets/media/image8.png")))#figure(code-image(image("../assets/media/image9.png"))) 调研过程中拍摄的一些零零碎碎的图片
+#figure(code-image(image("../assets/media/image5.png")))
+#figure(code-image(image("../assets/media/image6.png")))
+#figure(code-image(image("../assets/media/image7.png")))
+#figure(code-image(image("../assets/media/image8.png")))
+#figure(code-image(image("../assets/media/image9.png")))
+调研过程中拍摄的一些零零碎碎的图片
 
 == 5.29 Momenta 总部参访
 #figure(code-image(
   image(
     "../assets/media/image10.png",
   ),
-))#figure(code-image(
+))
+#figure(code-image(
   image(
     "../assets/media/image11.png",
   ),
-))#figure(code-image(
+))
+#figure(code-image(
   image(
     "../assets/media/image12.png",
   ),
@@ -112,7 +119,7 @@ Momenta
 #pdf_viewer(path: "../assets/docs/图片/访谈调研/1-访谈提纲.pdf")
 
 // #highlight[插入文档“8.9 采访核心总结”]
-#pdf_viewer(path: "../assets/docs/图片/访谈调研/2-8.9采访核心总结.docx")
+#pdf_viewer(path: "../assets/docs/图片/访谈调研/2-8.pdf")
 
 == 8.19 交通工具设计领域专家访谈
 <交通工具设计领域专家访谈>
@@ -132,7 +139,12 @@ Momenta
 
 同时，她在智驾使用过程中对车始终保持高度控制，通过预判系统可能出现的错误并提前干预，展现了典型的人机共同适应行为。她买车已经三年，她的信任并非建立在系统当前完美无缺的表现上，而是源于第一次去门店试驾时印象深刻的体验、对纯视觉技术路线的认同，以及对系统能通过 OTA 持续升级和改进的未来预期。
 
-#figure(code-image(image("../assets/media/image17.png", height: 2.65694in, width: 3.54306in))) 访谈结束后我终于记得要拍照了
+#figure(code-image(image(
+  "../assets/media/image17.png",
+  height: 2.65694in,
+  width: 3.54306in,
+)))
+访谈结束后我终于记得要拍照了
 
 #figure(code-image(
   image(
