@@ -15,12 +15,16 @@
 今天是我们项目组第一次真正意义上的实地考察，跟着学校车辆学院科协一起参访了蔚来汽车体验中心。之前看再多资料和视频，都不如亲手摸到方向盘、亲身体验智能驾驶座舱来得真切。我试驾了 NIO
 ET9，在真实道路上感受了辅助驾驶系统的运行。和蔚来研发人员的交流也收获很大，他们从技术的角度解释了很多我们之前的困惑。感觉做研究真的要走出来，课本和文献里的知识是平面的，但当你坐在车里，看着系统接管方向盘，那种对“人机关系”的思考才会变得立体起来。
 
-#image(
-  "../assets/media/image1.png",
-  height: 1.93681in,
-  width: 2.58056in,
-)
-#image("../assets/media/image2.png", height: 1.77778in, width: 3.03194in)
+#figure(code-image(
+  image(
+    "../assets/media/image1.png",
+  ),
+))
+#figure(code-image(
+  image(
+    "../assets/media/image2.png",
+  ),
+))
 
 == 4.27 长城汽车企业参访
 <长城汽车企业参访>
@@ -28,9 +32,17 @@ ET9，在真实道路上感受了辅助驾驶系统的运行。和蔚来研发�
 Pilot
 Ultra 和 Hi4 技术体系，聊了很多技术细节。说实话，很多内容对我来说还比较深奥，但努力听下来，感觉对智能驾驶的“底层逻辑”有了更深的理解。最大的感触是，一个看似简单的功能背后，是无数工程师和复杂的系统在支撑，这让我们对研究这个课题更加心存敬畏。
 
-#image("../assets/media/image3.jpeg", height: 1.93611in, width: 3.43889in)
+#figure(code-image(
+  image(
+    "../assets/media/image3.jpeg",
+  ),
+))
 
-#image("../assets/media/image4.png", height: 2.00972in, width: 3.57222in)
+#figure(code-image(
+  image(
+    "../assets/media/image4.png",
+  ),
+))
 
 == 5.18 六大车企线下门店卧底调研
 <六大车企线下门店卧底调研>
@@ -38,17 +50,21 @@ Ultra 和 Hi4 技术体系，聊了很多技术细节。说实话，很多内容
 
 当一天“消费者”下来，最大的感受是，销售口中宣传的那些天花乱坠的功能，在实际道路上体验起来并没有那么完美。我们也发现，不同车型的摄像头和雷达配置差别很大，这背后可能就隐藏着安全风险。这次调研让我们深刻体会到，从“宣传”到“用户实际体验”之间，还有很长一段路要走，而这正是我们研究可以切入的地方。
 
-#image("../assets/media/image5.png", height: 2.87847in, width: 2.15694in)#image("../assets/media/image6.png", height: 2.90694in, width: 2.17847in)#image("../assets/media/image7.png", height: 3.37708in, width: 2.53125in)#image("../assets/media/image8.png", height: 3.54097in, width: 2.65417in)#image("../assets/media/image9.png", height: 1.90694in, width: 2.54375in) 调研过程中拍摄的一些零零碎碎的图片
+#figure(code-image(image("../assets/media/image5.png", height: 2.87847in, width: 2.15694in)))#figure(code-image(image("../assets/media/image6.png", height: 2.90694in, width: 2.17847in)))#figure(code-image(image("../assets/media/image7.png", height: 3.37708in, width: 2.53125in)))#figure(code-image(image("../assets/media/image8.png", height: 3.54097in, width: 2.65417in)))#figure(code-image(image("../assets/media/image9.png", height: 1.90694in, width: 2.54375in))) 调研过程中拍摄的一些零零碎碎的图片
 
 == 5.29 Momenta 总部参访
-#image(
-  "../assets/media/image10.png",
-  height: 2.09375in,
-  width: 2.79236in,
-)#image("../assets/media/image11.png", height: 2.1in, width: 2.86319in)#image(
-  "../assets/media/image12.png",
-  height: 2.28333in,
-  width: 3.04514in,
+#figure(code-image(
+  image(
+    "../assets/media/image10.png",
+  ),
+))#figure(code-image(
+  image(
+    "../assets/media/image11.png",
+  ),
+))#figure(code-image(
+  image(
+    "../assets/media/image12.png",
+  ),
 ))
 
 今天去了趟 Momenta
@@ -68,15 +84,27 @@ Momenta
 <极星智驾车主访谈>
 这是我们第一次正式访谈真实的车主。聊下来感觉特别有价值，很多从用户嘴里说出来的鲜活感受，是我们在报告里看不到的。比如他提到的一些使用习惯和对功能的吐槽，都非常具体。这让我们意识到，不能只从工程师的视角看问题，用户的真实体验和“非理性”的情感，同样是构成“信任”的重要部分。
 
-#image("../assets/media/image13.png", height: 6.63611in, width: 5.76319in)
+#figure(code-image(
+  image(
+    "../assets/media/image13.png",
+  ),
+))
 
 == 8.9 车企工程师访谈
 <车企工程师访谈>
 针对市面上的智能辅助驾驶汽车所存在的伦理问题，我们邀请一线专家，先后就职于百度智能汽车部门、小鹏汽车数字化产品部门的工程师做了一个很详细的采访。能和产业界的一线专家直接对话，机会真的很难得。我们把数据分析中遇到的困惑，以及对伦理问题的思考都抛给了他，得到了很多实在的反馈。这种感觉很奇妙，像是把我们这些偏理论和设计的思考，放到了真实的产业环境中进行了一次“压力测试”。
 
-#image("../assets/media/image14.jpeg", height: 3.46042in, width: 4.61597in)
+#figure(code-image(
+  image(
+    "../assets/media/image14.jpeg",
+  ),
+))
 
-#image("../assets/media/image15.png", height: 0.97014in, width: 5.76042in)
+#figure(code-image(
+  image(
+    "../assets/media/image15.png",
+  ),
+))
 
 #highlight[插入文档“访谈提纲”]
 
@@ -88,7 +116,11 @@ Momenta
 
 我后来又重新梳理了从开始到现在的研究思路，发现这个聚焦点确实可以为整个项目提供清晰的研究主线，即将安全教育、人机交互等分散的问题，统一收束到“通过设计手段，引导用户在初次接触智能驾驶系统时就形成一个既不过高也不过低的、恰当的信任水平”这一目标上。我们后来复盘时都觉得，感觉整个项目的“灵魂”在那一刻找到了，大家都非常兴奋。
 
-#image("../assets/media/image16.png", height: 4.16181in, width: 3.62639in)
+#figure(code-image(
+  image(
+    "../assets/media/image16.png",
+  ),
+))
 
 == 8.30 特斯拉智驾车主访谈
 <特斯拉智驾车主访谈>
@@ -96,9 +128,13 @@ Momenta
 
 同时，她在智驾使用过程中对车始终保持高度控制，通过预判系统可能出现的错误并提前干预，展现了典型的人机共同适应行为。她买车已经三年，她的信任并非建立在系统当前完美无缺的表现上，而是源于第一次去门店试驾时印象深刻的体验、对纯视觉技术路线的认同，以及对系统能通过 OTA 持续升级和改进的未来预期。
 
-#image("../assets/media/image17.png", height: 2.65694in, width: 3.54306in) 访谈结束后我终于记得要拍照了
+#figure(code-image(image("../assets/media/image17.png", height: 2.65694in, width: 3.54306in))) 访谈结束后我终于记得要拍照了
 
-#image("../assets/media/image18.png", height: 5.06875in, width: 4.28194in)
+#figure(code-image(
+  image(
+    "../assets/media/image18.png",
+  ),
+))
 
 == 8.23 组内线下会议（又忘记拍照了）
 <组内线下会议又忘记拍照了>
@@ -106,7 +142,11 @@ Momenta
 
 此时，我们认为整个项目研究的核心是信任问题。我们初步选取了“新手小白司机”作为我们的研究对象，所以需要招募有一定驾龄但并不熟悉智驾系统操作的同学，通过民族志实验观察他们在具体情境中与智能驾驶相关系统的交互过程。在会议上，我们预测：大家在初次使用智能驾驶系统后，一定会大幅提升对智能驾驶的信任程度。因为此时是大家首次完整地体验到智能驾驶的功能，它在绝大多数场景都表现很好，对于年轻的司机而言智能驾驶系统也比较好上手，交互不成问题。然而，随着驾驶里程增加，一定会在某次遇到一个特别重大的危险事件（因为这个是小概率事件，什么时候到达这个时机取决于什么时候遇到危险），驾驶者会迅速降低信任程度至低谷。在此次信任危机之后，由于驾驶者变得极为小心谨慎，他一定会逐渐发现系统比想象中还是靠谱很多，但此时已经经历了一次信任危机，所以信任程度不会像初次使用那样激增，而是缓慢增长至一个合理的信任值，最终达到信任校准。
 
-#image("../assets/media/image19.jpeg", height: 1.90208in, width: 2.84514in)
+#figure(code-image(
+  image(
+    "../assets/media/image19.jpeg",
+  ),
+))
 
 事实上，很多安全事故都是在第一阶段信任激增过程中发生的。如果要实现比较好的信任校准，我们是否可以在信任上升过程给予适当干预，不让信任上升过快，不至于在顶点处遭遇一次急剧的信任下降事故？我们设想出一种理想的信任校准模型：从一开始，信任程度就缓慢增长直至无限逼近合理的信任值。这样，就不会因为信任过高而将太多权力交给智驾、导致事故，也不会因为中期信任突然下降而放弃使用智驾。但是，要怎么实现这一点呢？我们觉得，或许可以设计一套车载的安全教育系统，比如在一开始（信任上升期）通过降智版的智驾功能控制信任的上升幅度，并通过实时的操作教育引导驾驶者正确使用智能驾驶。当然，上述这些都是我们的设想，具体的信任变化是不是这样的曲线、每个阶段的变化到底是出于什么原因，都需要进一步思考研究。
 
@@ -116,7 +156,11 @@ Momenta
 
 == 10.1 一线专家访谈
 <一线专家访谈>
-#image("../assets/media/image20.png", height: 6.04097in, width: 5.75486in)
+#figure(code-image(
+  image(
+    "../assets/media/image20.png",
+  ),
+))
 
 = 试驾实验
 <试驾实验>
@@ -148,13 +192,13 @@ Momenta
 + 好几位参与者都说，感觉像在和车“较劲”------这种和方向盘的“拔河比赛”是被吐槽最多的点。比如刘玏和罗昌霖都提到，当他们下意识想微调一下方向盘时，系统会很固执地把方向盘拽回去。罗昌霖说，这种感觉特别危险，因为你要是用力大了，系统会突然“放手”，方向盘一下变轻，车子很可能就猛地拐了个大弯。这种“人车较劲”的感觉，让大家在紧急情况下对接管这件事有点害怕。
 
 + 那个让人迷惑的“滚轮”：也有一些哭笑不得的小插曲。魏媛媛刚上车时，怎么都找不到开启智驾的按钮。她看着那个滚轮，下意识地就想去“转”它，结果试了半天都没反应，后来才知道原来是要“摁”下去的
-  。她说这个设计太不符合直觉了。这真是个很好的提醒，有时候一个小小的交互设计，就能成为用户体验的第一个坎。
+  。她说这个设计太不符合直觉了。这真是个很好的提醒，有时候一个小小的交互设计，就能成为用户体验的第一个坎。
 
 + 有人爱也有人嫌的 HUD：关于抬头显示（HUD），大家的看法也很有趣，简直是“甲之蜜糖，乙之砒霜”。向昕宇觉得这个功能太棒了，能让他一直盯着正前方开车，不用分心
-  。但宋严睿就觉得没啥必要，光线太强的时候还可能挡视线。最有意思的是蒋咸康，我们不提醒他，他全程甚至都没注意到有这个东西的存在。这说明在设计界面时，还真得考虑不同人的驾驶习惯。
+  。但宋严睿就觉得没啥必要，光线太强的时候还可能挡视线。最有意思的是蒋咸康，我们不提醒他，他全程甚至都没注意到有这个东西的存在。这说明在设计界面时，还真得考虑不同人的驾驶习惯。
 
 + “守规矩”的烦恼：还有一个很普遍的感受，就是车子有时候“太守规矩了”。罗昌霖说，有一次旁边车道有台大巴车压着线开，离他们很近。他要是自己开，肯定会下意识地往旁边躲一点，哪怕压到自己这边的线也没关系，安全第一嘛。但这台车就特别“耿直”，依然保持在车道正中间，和大巴车贴得特别近，让他一路都很紧张。这让我们意识到，系统“100% 守法规”在某些时候，反而不符合人类在真实、复杂环境下的安全感
-  。
+  。
 
 #highlight[插入文件“智能驾驶试驾实验数据分析”]
 
@@ -188,10 +232,10 @@ Momenta
 试驾后访谈录音转文字稿词云图
 
 #block[
-  #set enum(numbering: "1.", start: 4)
-  + 两个绕不开的心理坎
+    #set enum(numbering: "1.", start: 4)
+    + 两个绕不开的心理坎
 
-    聊到最后，我发现有两个坎是绕不过去的，跟技术好坏关系不大。
+      聊到最后，我发现有两个坎是绕不过去的，跟技术好坏关系不大。
 ]
 
 一个是“责任感”。就像一位被试说的，即使他觉得系统开得很好，但在市中心那种人多的地方，他还是更相信自己，因为他害怕“会伤害到别人”。只要最后出事了还是司机担责，大家就很难完全放手。
@@ -217,23 +261,47 @@ Momenta
 
 我们将互联网上的评论进行了收集和分析，发现基本可以归纳为……几个点。
 
-#image("../assets/media/image21.png", height: 7.41319in, width: 5.76667in)
+#figure(code-image(
+  image(
+    "../assets/media/image21.png",
+  ),
+))
 
 首先，我们整理了互联网上所有评论的角度，并浏览了所有的分析视频和文章，得到了一张较为完善的思维导图
 
-#image("../assets/media/image22.jpeg", height: 4.5875in, width: 5.57222in)
+#figure(code-image(
+  image(
+    "../assets/media/image22.jpeg",
+  ),
+))
 
 我们认为，从设计史角度理解这件事应当聚焦于车企能做的事情，“即使不是车企的错，也有车企的责任”。对于部分认为是驾驶员责任的评论，我们仔细理解其内涵，也可以发现其中对应到的车企责任，比如有很多评论提到车主对智能辅助驾驶的理解有错误造成了滥用，这其实关乎车企应该怎样改进购车之后的安全教育------仅仅靠安全手册，会带来什么问题？因此，比起第一版的分类聚焦于责任划分，我们在第二版并没有特别聚焦于责任本身，而是从探讨问题的维度进行了重新聚类。
 
 接下来，我们的数据分析同样按照这个思路展开，聚焦于具体的分类。
 
-#image("../assets/media/image23.png", height: 2.73264in, width: 2.88542in)
+#figure(code-image(
+  image(
+    "../assets/media/image23.png",
+  ),
+))
 
-#image("../assets/media/image24.png", height: 2.69514in, width: 2.38264in)
+#figure(code-image(
+  image(
+    "../assets/media/image24.png",
+  ),
+))
 
-#image("../assets/media/image25.png", height: 1.1875in, width: 2.8125in)
+#figure(code-image(
+  image(
+    "../assets/media/image25.png",
+  ),
+))
 
-#image("../assets/media/image26.png", height: 1.57083in, width: 2.60556in)
+#figure(code-image(
+  image(
+    "../assets/media/image26.png",
+  ),
+))
 
 组内语音沟通
 
@@ -241,15 +309,19 @@ Momenta
 <爬虫数据采集>
 为了深入分析小米 SU7 爆燃事件在公众舆论场中的讨论与反响，我们通过部署开源爬虫工具，构建了一个涵盖小红书、抖音、快手、Bilibili、微博、知乎等主流媒体平台的综合数据库。该数据库共计抓取并存储了约 80 万条与该事件相关的用户评论，为后续的数据分析提供了基础。
 
-#image(
-  "../assets/media/image27.png",
-  height: 3.12569in,
-  width: 5.75764in,
-)#image("../assets/media/image28.png", height: 3.60347in, width: 5.75764in)
+#figure(code-image(
+  image(
+    "../assets/media/image27.png",
+  ),
+))#figure(code-image(
+  image(
+    "../assets/media/image28.png",
+  ),
+))
 
 == 8.22 爬虫数据分类
 <爬虫数据分类>
-在数据预处理阶段，我们利用清华大学智谱团队的 GLM-4.5 和 GLM-4.5-Air 大语言模型，对已爬取的用户评论数据进行自动化分类。分类任务通过一个预先设计并经过小规模验证的提示词分类器完成，并通过多个模型的交叉验证确保了分类的准确性与可靠性。经过这一系列处理，我们最终获得了一个包含约 30 万条有效评论的精炼数据集，为后续的深度分析奠定了基础。#image("../assets/media/image29.png", height: 3.60347in, width: 5.75764in)
+在数据预处理阶段，我们利用清华大学智谱团队的 GLM-4.5 和 GLM-4.5-Air 大语言模型，对已爬取的用户评论数据进行自动化分类。分类任务通过一个预先设计并经过小规模验证的提示词分类器完成，并通过多个模型的交叉验证确保了分类的准确性与可靠性。经过这一系列处理，我们最终获得了一个包含约 30 万条有效评论的精炼数据集，为后续的深度分析奠定了基础。#figure(code-image(image("../assets/media/image29.png", height: 3.60347in, width: 5.75764in)))
 
 == 8.22 数据可视化
 <数据可视化>
@@ -257,9 +329,13 @@ Momenta
 等数据可视化工具，对舆论数据进行了初步探索性分析，旨在从宏观层面把握公众对于该事件的核心关注点。
 
 分析结果清晰地揭示了：智能驾驶是本次事件舆论的绝对核心，而公众对智能驾驶安全教育的关注度也极高。除了智能驾驶本身，讨论的焦点还扩展到了多个与车辆安全相关的子议题，其中，“电车电池安全”、“车企宣传”
-和“机械把手设计”都引发了广泛讨论。#image("../assets/media/image30.png", height: 3.2375in, width: 5.75556in)
+和“机械把手设计”都引发了广泛讨论。#figure(code-image(image("../assets/media/image30.png", height: 3.2375in, width: 5.75556in)))
 
-#image("../assets/media/image31.png", height: 2.94375in, width: 5.74583in)
+#figure(code-image(
+  image(
+    "../assets/media/image31.png",
+  ),
+))
 
 == 9.30 了解跨学科的经验建议
 <了解跨学科的经验建议>
@@ -297,15 +373,19 @@ Chan
 
 #highlight[步骤：]
 
-#image(
-  "../assets/media/image32.jpeg",
-  height: 2.10556in,
-  width: 5.76389in,
-)#image(
-  "../assets/media/image33.jpeg",
-  height: 3.72569in,
-  width: 5.75972in,
-)#image("../assets/media/image34.jpeg", height: 3.60833in, width: 5.76389in)
+#figure(code-image(
+  image(
+    "../assets/media/image32.jpeg",
+  ),
+))#figure(code-image(
+  image(
+    "../assets/media/image33.jpeg",
+  ),
+))#figure(code-image(
+  image(
+    "../assets/media/image34.jpeg",
+  ),
+))
 
 === 信任问题
 <信任问题>
@@ -320,8 +400,8 @@ Chan
 === 设计人类学的指导视角
 <设计人类学的指导视角>
 #highlight[插入文档“An Interventional Design Anthropology of Emerging
-  Technologies Working Through an Interdisciplinary Field
-  新兴科技的介入式设计人类学跨学科领域的工作”]
+    Technologies Working Through an Interdisciplinary Field
+    新兴科技的介入式设计人类学跨学科领域的工作”]
 
 #highlight[设计人类学视角研究自动驾驶的几篇最重要的文献总结：]
 
