@@ -3,6 +3,7 @@ import { defineConfig, envField } from "astro/config";
 import sitemap from "@astrojs/sitemap";
 import { typst } from "astro-typst";
 import { loadEnv } from "vite";
+import { viteStaticCopy } from "vite-plugin-static-copy";
 
 // Please check `defineConfig/env` in astro.config.mjs for schema
 const e = loadEnv(process.env.NODE_ENV || "", process.cwd(), "");
@@ -60,5 +61,15 @@ export default defineConfig({
       external: ["@myriaddreamin/typst-ts-node-compiler"],
       noExternal: ["@fontsource-variable/inter"],
     },
+    plugins: [
+      viteStaticCopy({
+        targets: [
+          {
+            src: "./content/assets/docs/*",
+            dest: "article/assets/docs",
+          },
+        ],
+      }),
+    ],
   },
 });
