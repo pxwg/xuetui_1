@@ -26,5 +26,5 @@ pnpm-debug.log*
 .idea/
 
 # docs files
-docs/
+./docs/
 test.html
