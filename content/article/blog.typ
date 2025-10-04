@@ -19,12 +19,13 @@ ET9，在真实道路上感受了辅助驾驶系统的运行。和蔚来研发�
 
 #figure(code-image(
   image(
-    "../assets/media/image1.png",
+    "../assets/docs/图片/实地考察/图片12.png",
   ),
 ))
+
 #figure(code-image(
   image(
-    "../assets/media/image2.png",
+    "../assets/docs/图片/实地考察/图片13.png",
   ),
 ))
 
@@ -36,13 +37,13 @@ Ultra 和 Hi4 技术体系，聊了很多技术细节。说实话，很多内容
 
 #figure(code-image(
   image(
-    "../assets/media/image3.jpeg",
+    "../assets/docs/图片/实地考察/图片14.png",
   ),
 ))
 
 #figure(code-image(
   image(
-    "../assets/media/image4.png",
+    "../assets/docs/图片/实地考察/图片15.png",
   ),
 ))
 
@@ -52,27 +53,29 @@ Ultra 和 Hi4 技术体系，聊了很多技术细节。说实话，很多内容
 
 当一天“消费者”下来，最大的感受是，销售口中宣传的那些天花乱坠的功能，在实际道路上体验起来并没有那么完美。我们也发现，不同车型的摄像头和雷达配置差别很大，这背后可能就隐藏着安全风险。这次调研让我们深刻体会到，从“宣传”到“用户实际体验”之间，还有很长一段路要走，而这正是我们研究可以切入的地方。
 
-#figure(code-image(image("../assets/media/image5.png")))
-#figure(code-image(image("../assets/media/image6.png")))
-#figure(code-image(image("../assets/media/image7.png")))
-#figure(code-image(image("../assets/media/image8.png")))
-#figure(code-image(image("../assets/media/image9.png")))
+#figure(code-image(image("../assets/docs/图片/实地考察/图片16.png")))
+
+#figure(code-image(image("../assets/docs/图片/实地考察/图片17.png")))
+#figure(code-image(image("../assets/docs/图片/实地考察/图片18.png")))
+
 调研过程中拍摄的一些零零碎碎的图片
 
 == 5.29 Momenta 总部参访
 #figure(code-image(
   image(
-    "../assets/media/image10.png",
+    "../assets/docs/图片/实地考察/图片21.png",
   ),
 ))
+
 #figure(code-image(
   image(
-    "../assets/media/image11.png",
+    "../assets/docs/图片/实地考察/图片22.png",
   ),
 ))
+
 #figure(code-image(
   image(
-    "../assets/media/image12.png",
+    "../assets/docs/图片/实地考察/图片23.png",
   ),
 ))
 
@@ -129,7 +132,7 @@ Momenta
 
 #figure(code-image(
   image(
-    "../assets/media/image16.png",
+    "../assets/docs/图片/访谈调研/图片27.png",
   ),
 ))
 
@@ -144,6 +147,7 @@ Momenta
   height: 2.65694in,
   width: 3.54306in,
 )))
+
 访谈结束后我终于记得要拍照了
 
 #figure(code-image(
@@ -160,7 +164,7 @@ Momenta
 
 #figure(code-image(
   image(
-    "../assets/media/image19.jpeg",
+    "../assets/docs/图片/访谈调研/图片30.png",
   ),
 ))
 
@@ -239,6 +243,7 @@ Momenta
     "../assets/docs/图片/试驾实验/量表统计柱状图（前）.png",
   ),
 ))
+
 #figure(code-image(
   image(
     "../assets/docs/图片/试驾实验/量表统计柱状图（后）.png",
@@ -314,7 +319,7 @@ Momenta
 
 #figure(code-image(
   image(
-    "../assets/media/image21.png",
+    "../assets/docs/图片/社交媒体的资料收集/图片1.png",
   ),
 ))
 
@@ -322,39 +327,13 @@ Momenta
 
 #figure(code-image(
   image(
-    "../assets/media/image22.jpeg",
+    "../assets/docs/图片/社交媒体的资料收集/图片2.png",
   ),
 ))
 
 我们认为，从设计史角度理解这件事应当聚焦于车企能做的事情，“即使不是车企的错，也有车企的责任”。对于部分认为是驾驶员责任的评论，我们仔细理解其内涵，也可以发现其中对应到的车企责任，比如有很多评论提到车主对智能辅助驾驶的理解有错误造成了滥用，这其实关乎车企应该怎样改进购车之后的安全教育------仅仅靠安全手册，会带来什么问题？因此，比起第一版的分类聚焦于责任划分，我们在第二版并没有特别聚焦于责任本身，而是从探讨问题的维度进行了重新聚类。
 
 接下来，我们的数据分析同样按照这个思路展开，聚焦于具体的分类。
-
-#figure(code-image(
-  image(
-    "../assets/media/image23.png",
-  ),
-))
-
-#figure(code-image(
-  image(
-    "../assets/media/image24.png",
-  ),
-))
-
-#figure(code-image(
-  image(
-    "../assets/media/image25.png",
-  ),
-))
-
-#figure(code-image(
-  image(
-    "../assets/media/image26.png",
-  ),
-))
-
-组内语音沟通
 
 == 8.22 爬虫数据采集
 <爬虫数据采集>
@@ -364,7 +343,9 @@ Momenta
   image(
     "../assets/media/image27.png",
   ),
-))#figure(code-image(
+))
+
+#figure(code-image(
   image(
     "../assets/media/image28.png",
   ),
@@ -440,11 +421,15 @@ Momenta
   image(
     "../assets/media/image32.jpeg",
   ),
-))#figure(code-image(
+))
+
+#figure(code-image(
   image(
     "../assets/media/image33.jpeg",
   ),
-))#figure(code-image(
+))
+
+#figure(code-image(
   image(
     "../assets/media/image34.jpeg",
   ),
