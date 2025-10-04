@@ -68,6 +68,10 @@ export default defineConfig({
             src: "./content/assets/docs/*",
             dest: "article/assets/docs",
           },
+          {
+            src: "./content/assets/media/*",
+            dest: "article/assets/media",
+          },
         ],
       }),
     ],
